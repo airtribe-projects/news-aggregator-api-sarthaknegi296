@@ -63,8 +63,6 @@ Middleware verifies tokens before accessing protected routes.
 
 Clone this repository:
 
-git clone https://github.com/your-repo/news-api.git
-
 Install dependencies:
 
 Create a .env file and add:
