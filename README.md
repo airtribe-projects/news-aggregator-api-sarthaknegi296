@@ -61,9 +61,9 @@ Middleware verifies tokens before accessing protected routes.
 
 🛠️ Setup & Installation
 
-Clone this repository:
+Clone this repository
 
-Install dependencies:
+Install dependencies
 
 Create a .env file and add:
 
@@ -75,6 +75,4 @@ JWT_SECRET=your_secret_key
 
 NEWS_API_KEY=your_news_api_key
 
-Run the server:
-
-npm start
+Run the server
